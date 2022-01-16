@@ -1,0 +1,28 @@
+header {
+    display: block;
+    background-color: #097eac;
+    color: white;
+    text-align: center;
+    margin-top: -15px;
+}
+user agent stylesheet
+header {
+    display: block;
+}
+body {
+    font-family: 'Assistant', sans-serif;
+}
+
+
+footer {
+    background-color: #097eac;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    align-items: center;
+    margin-bottom: -12px;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
