@@ -1,7 +1,7 @@
 header {
     display: block;
-    background-color: #097eac;
-    color: white;
+    background-color: #0afcb3;
+    color: black;
     text-align: center;
     margin-top: -15px;
 }
@@ -11,12 +11,14 @@ header {
 }
 body {
     font-family: 'Assistant', sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 
 footer {
-    background-color: #097eac;
-    color: white;
+    background-color: #0afcb3;
+    color: black;
     text-align: center;
     font-size: 15px;
     align-items: center;
